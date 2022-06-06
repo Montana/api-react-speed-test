@@ -8,6 +8,6 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
-    <App />
+    <App /> // Hypothetical App.js file existing, I've only laid out the React skeleton for this.
   </StrictMode>
 );
